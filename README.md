@@ -20,7 +20,7 @@ Open your terminal and navigate to the directory containing the source code file
 Run the following command to compile the program:
 
 ```bash
-gcc stack.c -o stack
+gcc main.c -o stack
 ```
 
 ### Usage
