@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 # stack
 Technical Report Writting For #CA2 "Stack"
-Sure, here's an example of a README file for a stack implementation in C that takes user input:
+Here's an example of a README file for a stack implementation in C that takes user input:
 
 ```markdown
 # Stack Implementation in C with User Input
