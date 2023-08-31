@@ -1,3 +1,8 @@
+👋 Hi, I’m @Soumyjit26 (Soumyajit Mukherjee)
+
+- 👀 I’m interested in ...
+
+- 🌱 I’m currently learning ...
 # stack
 Technical Report Writting For #CA2 "Stack"
 Sure, here's an example of a README file for a stack implementation in C that takes user input:
